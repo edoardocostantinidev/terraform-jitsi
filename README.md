@@ -10,4 +10,7 @@
 2) terraform init
 3) terraform apply
 
-Wait a bit and try to connect to the url that gets printed in output.:
+Wait a bit and try to connect to the url that gets printed in output.
+
+### N.B. 
+adjust your instance type accordingly, now it is set to a t3a.small (roughly 15$ a month if active 24/7)
